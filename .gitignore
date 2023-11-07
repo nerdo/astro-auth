@@ -3,6 +3,7 @@ dist/
 # generated types
 .astro/
 /ngrok.yml
+/surreal/db/**
 
 # dependencies
 node_modules/
